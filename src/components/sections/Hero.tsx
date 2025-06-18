@@ -25,13 +25,10 @@ export const Hero = () => {
           Stop adding members one by one. Our tool lets you transfer entire groups or bulk-add members instantly.
         </p>
         
-        <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in">
+        <div className="flex justify-center animate-fade-in">
           <Button size="lg" className="bg-yellow-400 text-green-800 hover:bg-yellow-300 font-semibold px-8 py-4 text-lg">
             <Zap className="mr-2" size={20} />
             Get Early Access
-          </Button>
-          <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-green-600 px-8 py-4 text-lg">
-            Watch Demo
           </Button>
         </div>
 

@@ -85,24 +85,6 @@ export const Features = () => {
             </Card>
           ))}
         </div>
-
-        <div className="mt-16 bg-gradient-to-r from-green-600 to-emerald-600 rounded-2xl p-8 text-white text-center">
-          <h3 className="text-2xl font-bold mb-4">Ready to Transform Your Group Management?</h3>
-          <p className="text-green-100 mb-6 max-w-2xl mx-auto">
-            Join hundreds of WhatsApp admins who've already revolutionized how they manage their communities.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <div className="bg-white text-green-600 px-6 py-3 rounded-lg font-semibold">
-              ✅ No monthly fees
-            </div>
-            <div className="bg-white text-green-600 px-6 py-3 rounded-lg font-semibold">
-              ✅ One-time purchase
-            </div>
-            <div className="bg-white text-green-600 px-6 py-3 rounded-lg font-semibold">
-              ✅ Lifetime updates
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   );
